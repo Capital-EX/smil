@@ -5,8 +5,7 @@ SMiL is an implementation of the ideas presented in Eduardo Ochs's paper
 However, this implementation deviates from the usage of a bytecode instead 
 opting to transform code directly into lua objects.
 
-Work here is given away freely under CC0 (or MIT if CC0 is not valid in your
-legal juridiction).
+Work here is given away freely under CC0 (or MIT if CC0 is not valid in your legal jurisdiction).
 
 ## Caviats
 
